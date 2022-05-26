@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod o=rwx,g=r-x,u=r-- hello
+chmod u=r--,g=r-x,o-rwx hello
